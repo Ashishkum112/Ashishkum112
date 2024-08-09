@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development,and DSA with C++**
 
-- 💬 Ask me about **Web Development,React.js,C++**
+- 💬 Ask me about **Web Development,HTML,CSS,JavaScript,React.js,Node.js,Express.js,Postman,C++,**
 
 - 📫 Reach me here at **ashishkumarr0214@gmail.com**
 
