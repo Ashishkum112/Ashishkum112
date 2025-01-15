@@ -2,11 +2,9 @@
 <h3 align="center">Aspiring MERN Stack Developer 👨‍💻 & DSA Enthusiast 🚀</h3>
 <img align="right" width=400 alt ="coding" src= "https://image.lexica.art/full_jpg/5536a0b0-e8f5-4bed-af27-aa1a65f6c894">
 
-- 🔭 I’m currently working on [Moviestan](College Project)
-
 - 🌱 I’m currently learning **Full Stack Development,and DSA with C++**
 
-- 💬 Ask me about **Web Development,HTML,CSS,JavaScript,React.js,Node.js,Express.js,Postman,C++,**
+- 💬 Ask me about **Web Development,HTML,CSS,JavaScript,React.js,Node.js,Express.js,C++,**
 
 - 📫 Reach me here at **ashishkumarr0214@gmail.com**
 
